@@ -21,8 +21,11 @@ Technologies Used:
 3. Font Awesome icons
 4. Google Fonts (Poppins)
 
-Author
-`Sachin Kushwaha - GitHub Profile`
+Author:
 
-License
+Sachin Kushwaha - [GitHub Profile](https://github.com/sachin624k)
+
+
+License:
+
 This project is open source and free to use under the MIT License.
