@@ -1,4 +1,7 @@
 CSS Sidebar Navigation Project
+
+🚀 **Live Demo:** [View the live site here!](https://sachin624k.github.io/css-sidebar-project/)
+
 A sleek and responsive sidebar navigation built with HTML and CSS ✨, featuring smooth toggle animations 🔄, Font Awesome icons 🎨, and social media links 📱. It offers a modern, user-friendly interface without using JavaScript 🚫💻.
 
 Features: 
